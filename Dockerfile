@@ -1,2 +1,2 @@
 FROM nginx
-COPY java.html/usr/share/nginx/html
+COPY java.html /usr/share/nginx/html
